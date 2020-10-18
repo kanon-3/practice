@@ -209,11 +209,11 @@ footer {
     margin-bottom: 50px;
   }
 
-  .lesson-wrapper {
+.lesson-wrapper {
     height: 990px;
   }
 
-  footer {
+footer {
     text-align: center;
   }
 }
@@ -225,8 +225,8 @@ footer {
 
   .heading h2 {
     font-size: 20px;
+    }
   }
-}
 
 @media all and (max-width: 670px) {
   .header-right {
